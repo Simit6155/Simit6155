@@ -1,2 +1,1 @@
-- 👋 Hi
 - python, html, little css, little c++ and c
