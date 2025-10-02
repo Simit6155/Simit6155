@@ -1,1 +1,1 @@
-- python, html, little css, little c++ and c
+- python, html, little css, little c++ and rust
