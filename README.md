@@ -8,8 +8,6 @@
 | Python | Comfortable ✅ |
 | HTML / CSS | Basic web pages ✅ |
 | Rust | Learning 📚 |
-| Arch Linux | Active user 🐧 |
-| Git / GitHub | Version control & project sharing 🔧 |
 
 ---
 
