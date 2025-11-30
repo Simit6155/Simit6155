@@ -23,9 +23,6 @@ Im a 15 year old Interested in Cybersecurity, Programming and Automation.<br>Im 
 ---
 [![](https://visitcount.itsvg.in/api?id=Simit6155&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🟧 Monero (XMR)
-Scan to donate:
-![XMR QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=458RbPwHtM7ATxWTqJV3KR3PuF9MS4iMKaD2yPZStD2SH3cgNFfjByW5MRGy5ep5BFKafPHvuEhcgaRv8nnCR6PpRZ1pVWN)
 
 
 
