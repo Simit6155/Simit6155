@@ -23,10 +23,4 @@ Im a 15 year old Interested in Cybersecurity, Programming and Automation.<br>Im 
 ---
 [![](https://visitcount.itsvg.in/api?id=Simit6155&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Donate Monero
-<a href="monero:458RbPwHtM7ATxWTqJV3KR3PuF9MS4iMKaD2yPZStD2SH3cgNFfjByW5MRGy5ep5BFKafPHvuEhcgaRv8nnCR6PpRZ1pVWN" target="_blank">
-  <img src="https://img.shields.io/badge/Donate-Monero-orange?logo=monero&style=for-the-badge">
-</a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
