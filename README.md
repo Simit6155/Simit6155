@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a 15 year old Interested in Cybersecurity, Programming and Automation.<br>Im exploring Python, HTML and CSS and im looking further into low level programming languages for Malware Analysis.
+Im a 15 year old Interested in Cybersecurity, Programming and Automation.<br>I know Python, HTML and CSS and im looking further into low level programming languages for Malware Analysis.
 
 
 ## 🌐 Socials:
