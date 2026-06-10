@@ -1,3 +1,10 @@
+Hack The Box, exploitation workflows, malware analysis, Home labs (OMW. Proxmox, Paper Minecraft, Nginx . . .)
+
+languages: Python, C & can read NASM 
+
+
+Hardware: microcontroller experimentation and PCB prototyping. 
+
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redsimit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RedSimit_asm) 
