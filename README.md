@@ -1,4 +1,4 @@
-Hack The Box, exploitation workflows, malware analysis, Home labs (OMW. Proxmox, Paper Minecraft, Nginx . . .)
+Hack The Box, exploitation workflows, malware analysis, Home labs (OMV. Proxmox, Paper Minecraft, Nginx . . .)
 
 languages: Python, C & can read NASM 
 
