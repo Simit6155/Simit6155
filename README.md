@@ -1,6 +1,6 @@
-Hack The Box, exploitation workflows, malware analysis, Home labs (OMV. Proxmox, Paper Minecraft, Nginx . . .)
+Hack The Box, malware analysis, Home labs (OMV. Proxmox, Paper Minecraft, Nginx . . .)
 
-languages: Python, C & can read NASM 
+languages: Python, C & can read NASM , HTML & CSS
 
 
 Hardware: microcontroller experimentation and PCB prototyping. 
