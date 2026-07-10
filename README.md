@@ -1,14 +1,16 @@
-Hack The Box, malware analysis, Home labs (OMV. Proxmox, Paper Minecraft, Nginx . . .)
+Hack The Box, malware analysis, Home labs (OMV, Proxmox, Paper Minecraft, Nginx . . .)
 
-languages: Python, C & can read NASM , HTML & CSS
-
+languages: Python, C & can read x8664 NASM a little , HTML & CSS
 
 Hardware: microcontroller experimentation and PCB prototyping. 
 
+Current OS: Arch linux & Parrot OS
+
+
+
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redsimit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RedSimit_asm) 
-
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redsimit)
 ![snake gif](https://github.com/Simit6155/Simit6155/blob/output/github-snake-dark.svg)
 
 # 📊 GitHub Stats:
