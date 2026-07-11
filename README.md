@@ -1,6 +1,6 @@
 Hack The Box, malware analysis & development, Home labs (OMV, Proxmox, Paper Minecraft, Pihole . . .)
 
-languages: Python, C & learning x8664 NASM , HTML & CSS
+languages: Python, C & learning x86-64 NASM , HTML & CSS
 
 Hardware: microcontroller experimentation and PCB prototyping. 
 
